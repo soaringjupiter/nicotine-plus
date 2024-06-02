@@ -1,0 +1,4 @@
+Version = "2024-06-02"
+Authors = ["jupes"]
+Name = "Privately Shared Files Detector"
+Description = "Detects when someone who shares files privately is downloading from you."
